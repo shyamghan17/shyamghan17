@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghanshyam Kumar Mahato
-- 👀 I’m interested in New Technologies
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested to learn new Technologies
+- 🌱 I’m currently working as React Native dev.
 - 📫 How to reach me? shyamghan17@gmail.com : https://www.linkedin.com/in/ghanshyam-kumar-mahato-64ba5254/
 
 <!---
